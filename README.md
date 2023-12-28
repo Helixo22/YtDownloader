@@ -14,7 +14,7 @@ Install the required libraries by running the following command in the terminal:
 
 ```bash
 pip install pytube customtkinter
-
+```
 ## Usage
 Run the main.py file to launch the YtDownloader application. Enter the link of a YouTube video, press the "Download" button, and the app will start downloading the video.
 
