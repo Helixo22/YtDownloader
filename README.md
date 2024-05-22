@@ -3,6 +3,7 @@
 YtDownloader is a Python application for downloading YouTube videos using the Pytube library.
 
 ## Installation
+To use the.exe put it in the Microsft Defender exceptions
 
 ### Requirements
 
